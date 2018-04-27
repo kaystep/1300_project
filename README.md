@@ -7,4 +7,4 @@ Running list of React ideas I learned
   2) In order to update a component we must update it's setState
   3) Index is the most parent component and everything flows down from that
   3) There are function based components and class based components
-  
+  4) When integrating with Bootstrap use className NOT class...

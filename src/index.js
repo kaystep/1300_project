@@ -5,6 +5,7 @@ import YTSearch from 'youtube-api-search';
 import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from  './components/video_detail';
+import Navbar from './components/navbar';
 const API_KEY = 'AIzaSyD7bS__LRBd51gUb5LJebeCLz3dDrOU6QA';
 
 // Create a new component and this component should produce some HTML
@@ -41,6 +42,7 @@ class App extends Component {
   render() {
   	return (
       <div>
+        <Navbar />
         <SearchBar onSearchTermChange={term => this.videoSearch(term)} />
         <VideoDetail video={this.state.selectedVideo} />
         <VideoList
