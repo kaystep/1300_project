@@ -1,25 +1,10 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+To run this repository simple clone it and then run these 2 commands from your terminal
 > npm install
 > npm start
-```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+Running list of React ideas I learned
+  1) A react app is just broken down into numerous reusable components
+  2) In order to update a component we must update it's setState
+  3) Index is the most parent component and everything flows down from that
+  3) There are function based components and class based components
+  
