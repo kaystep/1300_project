@@ -1,5 +1,6 @@
 To run this repository simple clone it and then run these 2 commands from your terminal
 > npm install
+
 > npm start
 
 Running list of React ideas I learned
