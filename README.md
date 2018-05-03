@@ -3,6 +3,8 @@ To run this repository simple clone it and then run these 2 commands from your t
 
 > npm start
 
+This project was about me learning some of the basics of the React eco-system. Along the way I realized that there was also a lot of ES6/Javascript syntax, Redux, bootstrap integration etc... to be learned as well. The end product ended up being a basic youtube clone that allows users to search for videos and creates a side-bar list view much like Youtube does. Overall, I accomplished my goal of learning some of the basics of React so I have a better understanding of it before I enter my internship.
+
 Running list of React ideas I learned
   1) A react app is just broken down into numerous reusable components
   2) In order to update a component we must update it's setState
